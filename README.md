@@ -1,6 +1,6 @@
 # **Personal Information**
-### I'm currently a computer engineering student.
-### I'm currrently learning to program in Unity with C#.
+### - I'm currently a computer engineering student.
+### - I'm currrently learning to program in Unity with C#.
 
 ### Contact me through my social media:
 ### **Facebook**: [Leonardo Collazo](https://www.facebook.com/leonardo.collazo.71)
