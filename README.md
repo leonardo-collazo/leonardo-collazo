@@ -1,4 +1,4 @@
-# Personal Information
+# *Personal Information*
 ### I'm currently a computer engineering student.
 ### I'm currrently learning to program in Unity with C#.
 
