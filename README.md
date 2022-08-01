@@ -1,5 +1,5 @@
 ## Personal Information
-### I'm currently a computer engineering student 👨‍🎓
+ I'm currently a computer engineering student 👨‍🎓
 ### I'm currrently learning to program in Unity with C# :man_technologist:
 
 ### Contact me through my social media:
