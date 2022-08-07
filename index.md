@@ -1,3 +1,10 @@
 # Welcome to my blog
-## Personal Information
-I'm Leonardo Collazo
+## 1. Personal Information
+I'm Leonardo Collazo...
+
+## 2. Social Medias
+Facebook:
+Twitter:
+LinkedIn:
+
+## 3. Personal Projects
