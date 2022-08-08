@@ -6,8 +6,12 @@
    - I'm learning programming in Unity with C# since December, 2020.
    - I'm learning everything about GitHub and version control.
 
+ 
+
 ## 2. Personal projects
    - [knight-monsters-arena](https://github.com/KidBourbon/knight-monsters-arena)
+
+ 
 
 ## 3. My social medias
    - Facebook: [Leonardo Collazo](https://www.facebook.com/leonardo.collazo.71)
