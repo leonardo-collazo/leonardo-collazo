@@ -1,4 +1,5 @@
 # Welcome to my profile!
+
 ## 1. Who am I?
 ### - Studies
 I am currently a 3rd year computer engineering student at the Technological University of Havana (CUJAE). I am finishing up a Junior Programmer course in Unity, posted on the website: [learn.unity.com](https://learn.unity.com/). I also studied some tutorials on the website: [skills.github.com](https://skills.github.com/)
@@ -34,7 +35,7 @@ At the moment I will finish the university and the junior programmer course at U
 Unity ID: [Kid_Bourbon](https://learn.unity.com/u/5fcac86aedbc2a0020b1f7a6?tab=profile)
 
 
-### 4. My blog site
+## 4. My blog site
 - [Kid Bourbon blog](https://kidbourbon.github.io/KidBourbon/)
 
 
