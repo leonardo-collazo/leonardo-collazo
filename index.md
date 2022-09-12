@@ -2,7 +2,7 @@
 
 ## 1. Who am I?
 ### - Studies
-I am currently a 3rd year computer engineering student at the Technological University of Havana (CUJAE). I am finishing up a Junior Programmer course in Unity, posted on the website: [learn.unity.com](learn.unity.com). I also studied some tutorials on the website: [skills.github.com](skills.github.com)
+I am currently a 3rd year computer engineering student at the Technological University of Havana (CUJAE). I am finishing up a Junior Programmer course in Unity, posted on the website: [learn.unity.com](https://learn.unity.com/). I also studied some tutorials on the website: [skills.github.com](https://skills.github.com/)
 
 
 ### - Skills
