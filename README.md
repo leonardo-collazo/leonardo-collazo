@@ -14,8 +14,7 @@ Since December 2020 I have been learning everything related to Unity, especially
 I can speak four languages:
 - Spanish (native)
 - English (Advanced)
-- Russian (Advanced)
-- Chinese (Basic)
+- Russian (Intermediate)
 
 
 ### - Job experience
