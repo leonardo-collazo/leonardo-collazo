@@ -14,8 +14,7 @@ Since December 2020 I have been learning everything related to Unity, especially
 I can speak four languages:
 - Spanish (native)
 - English (Advanced)
-- Russian (Advanced)
-- Chinese (Basic)
+- Russian (Intermediate)
 
 
 ### - Job experience
@@ -27,7 +26,6 @@ At the moment I will finish the university and the junior programmer course at U
  
  
 ## 2. Personal projects
-- [Ball run (platform 3D videogame)](https://kid-bourbon.itch.io/ball-run)
 - [knight-monsters-arena (action 3D videogame)](https://github.com/KidBourbon/knight-monsters-arena)
 
 
