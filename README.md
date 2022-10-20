@@ -22,8 +22,8 @@ At the moment, I have no work experience. I'm looking for a job as Unity Junior 
 At the moment I will finish the university and the junior programmer course at Unity. Later I will take other Unity courses from the same website (learn.unity.com), to continue expanding my knowledge, mainly in the field of programming. After college, I will start looking for a job in the game development industry.
  
 ## 2. Personal projects
-- [knight-monsters-arena (repository)](https://github.com/KidBourbon/knight-monsters-arena)
-- [knight-monsters-arena (game download)](https://github.com/KidBourbon/knight-monsters-arena/releases/download/v1.0.0/Knight.monsters.and.arena.-.Setup.x64.exe)
+-[knight-monsters-arena (repository)](https://github.com/KidBourbon/knight-monsters-arena)
+-[knight-monsters-arena (game download)](https://github.com/KidBourbon/knight-monsters-arena/releases/download/v1.0.0/Knight.monsters.and.arena.-.Setup.x64.exe)
 
 ## 3. Experience-skills with Unity
 Unity ID: [Kid_Bourbon](https://learn.unity.com/u/5fcac86aedbc2a0020b1f7a6?tab=profile)
