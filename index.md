@@ -24,7 +24,6 @@ At the moment I will finish the university and the junior programmer course at U
 ## 2. Personal projects
 - [knight-monsters-arena (action 3D videogame)](https://github.com/KidBourbon/knight-monsters-arena)
 
-
 ## 3. Experience-skills with Unity
 Unity ID: [Kid_Bourbon](https://learn.unity.com/u/5fcac86aedbc2a0020b1f7a6?tab=profile)
 
