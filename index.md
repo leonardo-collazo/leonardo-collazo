@@ -5,6 +5,7 @@
 ### - Studies
 I am currently a 4th year computer engineering student at the Technological University of Havana (CUJAE). I am finishing the online course "CS50x - Computer Science" taught by professors from Harvard University. After this course I will start another course "CS50G - Video Game Development" to learn more about game development with Love2D and Unity. I am also finishing up a Junior Programmer course in Unity, posted on the website: [learn.unity.com](https://learn.unity.com/). I also studied some tutorials on the website: [skills.github.com](https://skills.github.com/)
 
+<br>
 
 ### - Skills
 Since December 2020 I have been learning everything related to Unity, especially programming with C#, for game development. I also have experience with GitHub and version control.
