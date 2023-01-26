@@ -13,7 +13,7 @@ Since December 2020 I have been learning everything related to Unity, especially
 
 During my degree I have gained experience programming with:
 <br>
-C, Java, Python, SQL - Postgresql, R
+C, Java, Python, JavaScript, SQL - Postgresql, R
 
 <br>
 
@@ -30,7 +30,7 @@ At the moment, I have no work experience. I'm looking for a job as Unity Junior 
 <br>
 
 ### - Future plans
-At the moment I will finish the university and the junior programmer course at Unity. Later I will take other Unity courses from the same website (learn.unity.com), to continue expanding my knowledge, mainly in the field of programming. After college, I will start looking for a job in the game development industry.
+At the moment I will finish the university, the CS50x course and the Junior Programmer course at Unity. Later I will take other Unity courses from the same website (learn.unity.com), to continue expanding my knowledge, mainly in the field of programming and videogame development. After college, I will start looking for a job in the game development industry.
 
 <br>
 
