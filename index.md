@@ -46,17 +46,17 @@ Unity ID: [Kid_Bourbon](https://learn.unity.com/u/5fcac86aedbc2a0020b1f7a6?tab=p
 - English (advanced)
 - Russian (intermediate)
 
-## Job experience
-At the moment, I have no work experience. I'm looking for a job as Unity Junior Programmer or Unity Junior Developer.
-
-## Future plans
-At the moment I will finish the university, the CS50x course and the Junior Programmer course at Unity. Later I will take other Unity courses from the same website (learn.unity.com), to continue expanding my knowledge, mainly in the field of programming and videogame development. After college, I will start looking for a job in the game development industry.
-
 ## Personal projects
 I have three personal projects made with Unity:
 - Ball run (platform 3D videogame)
 - [Knight, monsters and arena](https://github.com/KidBourbon/knight-monsters-arena) (action 3D videogame)
 - [Bea's Gift](https://github.com/KidBourbon/bea-gift) (endless runner mobile Game)
+
+## Job experience
+At the moment, I have no work experience. I'm looking for a job as Unity Junior Programmer or Unity Junior Developer.
+
+## Future plans
+At the moment I will finish the university, the CS50x course and the Junior Programmer course at Unity. Later I will take other Unity courses from the same website (learn.unity.com), to continue expanding my knowledge, mainly in the field of programming and videogame development. After college, I will start looking for a job in the game development industry.
 
 ## My social medias
 - Facebook: [Leonardo Collazo](https://www.facebook.com/leonardo.collazo.klenina)
