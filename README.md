@@ -3,10 +3,10 @@
 ## 1. Who am I?
 ### Studies
 - I am currently a 4th year Computer Engineering student at the Technological University of Havana (CUJAE).
-- I took the online course "CS50x - Computer Science" from Harvard University on the edx.org website.
-- I took several mini courses on version control with Git and GitHub.
+- I took the online course "CS50x - Computer Science" from Harvard University on the [edx.org](https://www.edx.org) website.
+- I took several mini courses on version control with Git and [GitHub](https://skills.github.com).
 - I'm taking another course "CS50G - Game Development" about game development with Love2D and Unity.
-- I'm finishing up the Junior Programmer course from Unity on learn.unity.com website.
+- I'm finishing up the Junior Programmer course from Unity on [learn.unity.com](https://learn.unity.com) website.
 
 ### Skills
 #### Self-taught:
