@@ -11,7 +11,7 @@
 ## Skills
 ### Self-taught:
 
-1. More than two years using the Unity engine and programming with C# for the development of videogames. I have already developed 3 complete personal projects: two desktop and one mobile (see section: Projects). Version control experience with Git and GitHub (web and desktop). Check out my experience-skills with Unity:</br>
+1. More than two years using the Unity engine and programming with C# for the development of videogames. I have already developed 3 complete personal projects: two desktop and one mobile (see section: Projects). Version control experience with Git and GitHub (web and desktop). Check out my experience-skills with Unity:<br/>
 Unity ID: [Kid_Bourbon](https://learn.unity.com/u/5fcac86aedbc2a0020b1f7a6?tab=profile)
 
 2. With the CS50x course (see section: Licenses & certifications) I got experience developing small projects using:
