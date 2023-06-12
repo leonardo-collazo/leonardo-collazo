@@ -39,6 +39,7 @@ I have two personal projects made with Unity:
 - [Bea's Gift](https://github.com/KidBourbon/bea-gift) (endless runner mobile Game)
 
 ## My social medias
+<a href="https://www.facebook.com/leonardo.collazo.klenina" target="_blank"> <img src="https://iconos8.es/icon/118960/facebook" alt="facebook" width="65" height="65"/></a>
 - [Facebook](https://www.facebook.com/leonardo.collazo.klenina)
 - [Twitter](https://twitter.com/KidBourbon6)
 - [LinkedIn](https://www.linkedin.com/in/leonardo-collazo-klenina)
