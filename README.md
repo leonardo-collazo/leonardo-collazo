@@ -1,67 +1,48 @@
 # Welcome to my profile!
 
-## 1. Who am I?
 ### Studies
-- I am currently a 4th year Computer Engineering student at the Technological University of Havana (CUJAE).
-- I took the online course "CS50x - Computer Science" from Harvard University on the [edx.org](https://www.edx.org) website.
-- I took several mini courses on version control with Git and [GitHub](https://skills.github.com).
-- I'm taking another course "CS50G - Game Development" about game development with Love2D and Unity.
-- I'm finishing up the Junior Programmer course from Unity on [learn.unity.com](https://learn.unity.com) website.
+- I am a 4th year university student of Computer Engineering with an academic index of 4.94/5.
+- I finished the online course "CS50's Introduction to Computer Science" from HarvardX.
+- I finished the online course "Unity Essentials Pathway" from Unity Technologies.
 
-### Skills
-#### Self-taught:
+### Experiencie and skills
+More than two years of experience using Unity 3D game engine and programming with C#. Currently, I'm developing with a team a virtual hydraulics laboratory using Unity 3D. I'm programming the UI and the internal mechanics of the laboratory. I also have two personal projects made with Unity:
+- Knight, monsters and arena (action 3D PC game)
+- Bea's Gift (endless runner 2D mobile game)
 
-1. More than two years using the Unity engine and programming with C# for the development of videogames. I have already developed 3 complete personal projects: two desktop and one mobile (see section: Projects). Version control experience with Git and GitHub (web and desktop). Check out my experience-skills with Unity:</br>
-Unity ID: [Kid_Bourbon](https://learn.unity.com/u/5fcac86aedbc2a0020b1f7a6?tab=profile)
+With "CS50's Introduction to Computer Science" course I learned:
+- A broad and robust understanding of computer science and programming
+- Concepts like: abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering and web development
+- Familiarity in a number of languages: C, Python, SQL and JavaScript plus CSS and HTML
 
-2. With the CS50x course (see section: Licenses & certifications) I got experience developing small projects using:
-- Visual Studio Code
-- C
-- Python
-- SQLite
-- HTML, CSS and JavaScript
-- Flask
-
-#### University:
-
-1. I worked with a team in the development of a virtual hydraulics laboratory. It was created with Unity using C# as the programming language. My greatest experience was in the development of the User Interface and the internal mechanics of the laboratory.
-
-2. With another student we created a website for a car rental agency (educational project):
-- Front-end: HTML + CSS + JavaScript + Primefaces
-- Back-end: SpringBoot + Maven + Java
+With another student we created a website where I got experience with:
+- Front-end: HTML + CSS + JavaScript
+- Back-end: Java + SpringBoot + Maven
 - REST API
 
-3. I developed different educational projects where the following was used:
-- Qt + C
-- Eclipse + PgAdmin + Java + Postgresql (SQL)
-- Anaconda + Pycharm + Python
-
-#### General:
+Enough knowledge about:
+- Good programming practices
 - Object Oriented Programming (OOP)
 - SOLID design principles
 - GoF programming patterns
+- Version control with Git and GitHub
 
-#### I can speak three languages:
-- Spanish (native)
-- English (advanced)
-- Russian (intermediate)
-
-### Job experience
-At the moment, I have no work experience. I'm looking for a job as Unity Junior Programmer or Unity Junior Developer.
+### Work experience
+At the moment, I have no work experience.
 
 ### Future plans
-At the moment I will finish the university, the CS50x course and the Junior Programmer course at Unity. Later I will take other Unity courses from the same website (learn.unity.com), to continue expanding my knowledge, mainly in the field of programming and videogame development. After college, I will start looking for a job in the game development industry.
+At the moment I'm going to finish college and all my courses from HarvardX: "CS50's Introduction to Game Development" and "CS50's Web Programming with Python and JavaScript". Then I'll look for a remote or entry-level job as a Junior Unity 3D Developer or Junior Full Stack Web Developer.
  
 ## Personal projects
-I have three personal projects made with Unity:
-- Ball run (platform 3D videogame)
+I have two personal projects made with Unity:
 - [Knight, monsters and arena](https://github.com/KidBourbon/knight-monsters-arena) (action 3D videogame)
 - [Bea's Gift](https://github.com/KidBourbon/bea-gift) (endless runner mobile Game)
 
 ## My social medias
-- Facebook: [Leonardo Collazo](https://www.facebook.com/leonardo.collazo.klenina)
-- Twitter: [@KidBourbon6](https://twitter.com/KidBourbon6)
-- LinkedIn: [Leonardo Collazo Klenina](https://www.linkedin.com/in/leonardo-collazo-klenina)
+- [Facebook](https://www.facebook.com/leonardo.collazo.klenina)
+- [Twitter](https://twitter.com/KidBourbon6)
+- [LinkedIn](https://www.linkedin.com/in/leonardo-collazo-klenina)
+- [Youtube](https://www.youtube.com/channel/UCUVv_L27fI0xbvdScYOGm2A)
 
 ## CV + Portfolio site
 - [CV + Portfolio](https://kidbourbon.github.io/KidBourbon/)
