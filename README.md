@@ -44,10 +44,5 @@ I have two personal projects made with Unity:
 <a href="https://twitter.com/KidBourbon6" target="_blank"> <img src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter" width="50" height="50"/></a>
 <a href="https://www.youtube.com/channel/UCUVv_L27fI0xbvdScYOGm2A" target="_blank"> <img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" alt="youtube" width="50" height="50"/></a>
 
-- [Facebook](https://www.facebook.com/leonardo.collazo.klenina)
-- [Twitter](https://twitter.com/KidBourbon6)
-- [LinkedIn](https://www.linkedin.com/in/leonardo-collazo-klenina)
-- [Youtube](https://www.youtube.com/channel/UCUVv_L27fI0xbvdScYOGm2A)
-
 ## CV + Portfolio site
 - [CV + Portfolio](https://kidbourbon.github.io/KidBourbon/)
