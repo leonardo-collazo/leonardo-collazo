@@ -10,17 +10,17 @@ More than two years of experience using Unity 3D game engine and programming wit
 - Knight, monsters and arena (action 3D PC game)
 - Bea's Gift (endless runner 2D mobile game)
 
-##### With "CS50's Introduction to Computer Science" course I learned:
+#### With "CS50's Introduction to Computer Science" course I learned:
 - A broad and robust understanding of computer science and programming
 - Concepts like: abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering and web development
 - Familiarity in a number of languages: C, Python, SQL and JavaScript plus CSS and HTML
 
-##### With another student we created a website where I got experience with:
+#### With another student we created a website where I got experience with:
 - Front-end: HTML + CSS + JavaScript
 - Back-end: Java + SpringBoot + Maven
 - REST API
 
-##### Enough knowledge about:
+#### Enough knowledge about:
 - Good programming practices
 - Object Oriented Programming (OOP)
 - SOLID design principles
