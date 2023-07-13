@@ -24,9 +24,13 @@ Enough knowledge about:
 - Version control with Git and GitHub
 
 ### Projects
-Currently, I'm developing with a team a virtual hydraulics laboratory using Unity 3D. I'm programming the UI and the internal mechanics of the laboratory. I also have two personal projects made with Unity (see Projects section):
+Currently, I'm developing with a team a virtual hydraulics laboratory using Unity 3D. I'm programming the UI and the internal mechanics of the laboratory. I also have two personal projects made with Unity:
 - [Knight, monsters and arena](https://github.com/KidBourbon/knight-monsters-arena) (action 3D videogame)
 - [Bea's Gift](https://github.com/KidBourbon/bea-gift) (endless runner 2D mobile game)
+
+Web projects made only with HTML5 and CSS3:
+- [Yard Sale Website](https://github.com/KidBourbon/yard-sale-website)
+- [Google Clone](https://github.com/KidBourbon/google-clone)
 
 ### Languages
 - Spanish (native)
