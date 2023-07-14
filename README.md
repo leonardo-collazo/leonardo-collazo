@@ -1,7 +1,7 @@
 # Welcome to my profile!
 
 ## Studies
-- I'm a 4th year university student of Computer Engineering with an academic index of 4.94/5
+- I'm a 4th year university student of Computer Engineering with an academic index of 4.95/5
 - I finished the online course "CS50's Introduction to Computer Science" from HarvardX
 - I finished the online course "Unity Essentials Pathway" from Unity Technologies
 - My English proficiency is C2 according to the EF Standard English Test (EF SET)
