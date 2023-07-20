@@ -37,9 +37,10 @@ Currently, I'm developing with a team a virtual hydraulics laboratory using Unit
 - [Knight, monsters and arena](https://github.com/KidBourbon/knight-monsters-arena) (action 3D videogame)
 - [Bea's Gift](https://github.com/KidBourbon/bea-gift) (endless runner 2D mobile Game)
 
-Web projects made only with HTML5 and CSS3:
+Web projects made only with HTML and CSS:
 - [Yard Sale Website](https://github.com/KidBourbon/yard-sale-website)
 - [Google Clone](https://github.com/KidBourbon/google-clone)
+- [Batatabit Landing Page](https://github.com/KidBourbon/batatabit-landing-page)
 
 ## My social medias
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
