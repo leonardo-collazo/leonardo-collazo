@@ -29,9 +29,9 @@ Currently, I'm developing with a team a virtual hydraulics laboratory using Unit
 - [Bea's Gift](https://github.com/KidBourbon/bea-gift) (endless runner 2D mobile game)
 
 Web projects made only with HTML5 and CSS3:
-- [Yard Sale Website](https://github.com/KidBourbon/yard-sale-website)
-- [Google Clone](https://kidbourbon.github.io/google-clone/) [[Code](https://github.com/KidBourbon/google-clone)]
 - [Batatabit Landing Page](https://kidbourbon.github.io/batatabit-landing-page/) [[Code](https://github.com/KidBourbon/batatabit-landing-page)]
+- [Google Clone](https://kidbourbon.github.io/google-clone/) [[Code](https://github.com/KidBourbon/google-clone)]
+- Yard Sale Website [[Code](https://github.com/KidBourbon/yard-sale-website)]
 
 ### Languages
 - Spanish (native)
