@@ -39,8 +39,8 @@ Currently, I'm developing with a team a virtual hydraulics laboratory using Unit
 
 Web projects made only with HTML and CSS:
 - [Yard Sale Website](https://github.com/KidBourbon/yard-sale-website)
-- [Google Clone](https://github.com/KidBourbon/google-clone)
-- [Batatabit Landing Page](https://github.com/KidBourbon/batatabit-landing-page)
+- [Google Clone](https://kidbourbon.github.io/google-clone/) [[Code](https://github.com/KidBourbon/google-clone)]
+- [Batatabit Landing Page](https://kidbourbon.github.io/batatabit-landing-page/) [[Code](https://github.com/KidBourbon/batatabit-landing-page)]
 
 ## My social medias
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
