@@ -12,7 +12,7 @@
 
 ## Experiencie
 - More than one year of experience using Unity 3D game engine and programming with C#
-- Front-end development experience with HTML5 and CSS3
+- Front-end development experience with HTML, CSS, Pug and Sass
 
 Check out my experience and skills with Unity: [Kid_Bourbon](https://learn.unity.com/u/5fcac86aedbc2a0020b1f7a6?tab=profile)
 
