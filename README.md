@@ -2,9 +2,13 @@
 
 ## Studies
 - I'm a 4th year university student of Computer Engineering with an academic index of 4.95/5
-- I finished the online course "CS50's Introduction to Computer Science" from HarvardX
-- I finished the online course "Unity Essentials Pathway" from Unity Technologies
-- My English proficiency is C2 according to the EF Standard English Test (EF SET)
+- I have taken several courses whose certificates are shown in the following section "Certificates"
+
+## Certificates
+- [CS50's Introduction to Computer Science](https://courses.edx.org/certificates/07a19c2ddae94799aa8db6c68cbe9e3e)
+- [Unity Essentials Pathway](https://www.credly.com/badges/b21ed9fa-3804-475a-a709-f61fe2c61620)
+- [EF Standard English Test](https://www.efset.org/cert/8DLqB2)
+- [Software Engineering Fundamentals Diploma](https://platzi.com/p/Kid_Bourbon/curso/1098-ingenieria/diploma/detalle/)
 
 ## Experiencie
 - More than one year of experience using Unity 3D game engine and programming with C#
@@ -16,21 +20,18 @@ Check out my experience and skills with Unity: [Kid_Bourbon](https://learn.unity
 Enough knowledge about:
 - Understanding of the basics of game design and development
 - Game development with Unity 3D and C#
+- Front-end development with HTML, CSS, PugJS and Sass
 - Object Oriented Programming (OOP)
 - SOLID design principles
 - GoF programming patterns
 - Good programming practices
 - Version control with Git and GitHub
 
-### With "CS50's Introduction to Computer Science" course I learned:
-- A broad and robust understanding of computer science and programming
-- Concepts like: abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering and web development
-- Familiarity in a number of languages: C, Python, SQL and JavaScript plus CSS and HTML
-
-### With another student we created a website where I got experience with:
-- Front-end: HTML + CSS + JavaScript
-- Back-end: Java + SpringBoot + Maven
-- REST API
+Social skills:
+- Communication
+- Teamwork
+- Problem Solving
+- English proficiency level C2
  
 ## Projects
 Currently, I'm developing with a team a virtual hydraulics laboratory using Unity 3D. I'm programming the UI and the internal mechanics of the laboratory. I also have two personal projects made with Unity:
