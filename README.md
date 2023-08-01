@@ -41,6 +41,7 @@ Currently, I'm developing with a team a virtual hydraulics laboratory using Unit
 Web projects made only with HTML and CSS:
 - [Batatabit Landing Page](https://kidbourbon.github.io/batatabit-landing-page/) [[Code](https://github.com/KidBourbon/batatabit-landing-page)]
 - [Google Clone](https://kidbourbon.github.io/google-clone/) [[Code](https://github.com/KidBourbon/google-clone)]
+- [Gamer Profile](https://kidbourbon.github.io/gamer-profile/) [[Code](https://github.com/KidBourbon/gamer-profile)]
 - Yard Sale Website [[Code](https://github.com/KidBourbon/yard-sale-website)]
 
 ## My social medias
