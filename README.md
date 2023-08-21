@@ -46,7 +46,7 @@ Web projects made only with HTML and CSS:
 ## Social medias
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
 <a href="https://www.facebook.com/leonardo.collazo.klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook" width="50" height="50"/></a>
-<a href="https://twitter.com/KidBourbon6" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="twitterx"/></a>
+<a href="https://twitter.com/KidBourbon6" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/twitterx.png" alt="twitterx"/></a>
 <a href="https://www.youtube.com/channel/UCUVv_L27fI0xbvdScYOGm2A" target="_blank"> <img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" alt="youtube" width="50" height="50"/></a>
 
 ## Web page
