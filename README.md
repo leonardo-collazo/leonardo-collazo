@@ -18,9 +18,8 @@ Check out my experience and skills with Unity: [Kid_Bourbon](https://learn.unity
 
 ## Skills
 Enough knowledge about:
-- Understanding of the basics of game design and development
-- Game development with Unity 3D and C#
-- Front-end development with HTML, CSS, PugJS and Sass
+- Game development and design with Unity 3D
+- Frontend development with HTML, CSS, JS, PugJS and Sass
 - Object Oriented Programming (OOP)
 - SOLID design principles
 - GoF programming patterns
@@ -42,9 +41,9 @@ Web projects made only with HTML and CSS:
 - [Batatabit Landing Page](https://kidbourbon.github.io/batatabit-landing-page/) [[Code](https://github.com/KidBourbon/batatabit-landing-page)]
 - [Google Clone](https://kidbourbon.github.io/google-clone/) [[Code](https://github.com/KidBourbon/google-clone)]
 - [Gamer Profile](https://kidbourbon.github.io/gamer-profile/) [[Code](https://github.com/KidBourbon/gamer-profile)]
-- Yard Sale Website [[Code](https://github.com/KidBourbon/yard-sale-website)]
+- [Yard Sale Website](https://kidbourbon.github.io/yard-sale-website/) [[Code](https://github.com/KidBourbon/yard-sale-website)]
 
-## My social medias
+## Social medias
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
 <a href="https://www.facebook.com/leonardo.collazo.klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook" width="50" height="50"/></a>
 <a href="https://twitter.com/KidBourbon6" target="_blank"> <img src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter" width="50" height="50"/></a>
