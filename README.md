@@ -38,10 +38,11 @@ Currently, I'm developing with a team a virtual hydraulics laboratory using Unit
 - [Bea's Gift](https://github.com/KidBourbon/bea-gift) (endless runner 2D mobile Game)
 
 Front-end web projects:
-- [Batatabit Landing Page](https://kidbourbon.github.io/batatabit-landing-page/) [[Code](https://github.com/KidBourbon/batatabit-landing-page)]
-- [Google Clone](https://kidbourbon.github.io/google-clone/) [[Code](https://github.com/KidBourbon/google-clone)]
-- [Gamer Profile](https://kidbourbon.github.io/gamer-profile/) [[Code](https://github.com/KidBourbon/gamer-profile)]
 - [Yard Sale Website](https://kidbourbon.github.io/yard-sale-website/) [[Code](https://github.com/KidBourbon/yard-sale-website)]
+- [My Precious](https://kidbourbon.github.io/my-precious/) [[Code](https://github.com/KidBourbon/my-precious)]
+- [Batatabit Landing Page](https://kidbourbon.github.io/batatabit-landing-page/) [[Code](https://github.com/KidBourbon/batatabit-landing-page)]
+- [Gamer Profile](https://kidbourbon.github.io/gamer-profile/) [[Code](https://github.com/KidBourbon/gamer-profile)]
+- [Google Clone](https://kidbourbon.github.io/google-clone/) [[Code](https://github.com/KidBourbon/google-clone)]
 
 ## Social medias
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
