@@ -39,7 +39,7 @@
 ### 🏘️  Projects  🏘️
 Currently, I'm developing with a team a virtual hydraulics laboratory using Unity 3D. My roles in the team are to develop the UI and the internal lab mechanics related with the lab practices.
 
-I have two personal projects made with Unity:
+Projects made with Unity:
 - [Knight, monsters and arena](https://github.com/KidBourbon/knight-monsters-arena) (action 3D videogame)
 - [Bea's Gift](https://github.com/KidBourbon/bea-gift) (endless runner 2D mobile Game)
 
