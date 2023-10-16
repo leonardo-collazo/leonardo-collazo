@@ -17,7 +17,7 @@
 🎮 3 projects made with Unity.<br/>
 🎮 Currently developing a 3D hydraulics virtual lab with Unity and C# as part of my final project in college for graduation.<br/>
 🌐 Experience as front-end developer.<br/>
-🌐 5 web projects made with HTML, CSS and JavaScript.<br/>
+🌐 6 web projects made with HTML, CSS and JavaScript.<br/>
 🌐 Currently learning more about JavaScript.
 
 👉 Check out my experience and skills with Unity:
