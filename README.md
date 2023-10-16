@@ -47,6 +47,7 @@ Front-end web projects:
 - [Yard Sale Website](https://kidbourbon.github.io/yard-sale-website/) [[Code](https://github.com/KidBourbon/yard-sale-website)]
 - [My Precious](https://kidbourbon.github.io/my-precious/) [[Code](https://github.com/KidBourbon/my-precious)]
 - [Batatabit Landing Page](https://kidbourbon.github.io/batatabit-landing-page/) [[Code](https://github.com/KidBourbon/batatabit-landing-page)]
+- [My Landing Page](https://kidbourbon.github.io/my-landing-page/) [[Code](https://github.com/KidBourbon/my-landing-page)]
 - [Gamer Profile](https://kidbourbon.github.io/gamer-profile/) [[Code](https://github.com/KidBourbon/gamer-profile)]
 - [Google Clone](https://kidbourbon.github.io/google-clone/) [[Code](https://github.com/KidBourbon/google-clone)]
 
