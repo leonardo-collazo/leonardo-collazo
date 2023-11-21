@@ -1,7 +1,7 @@
-## 🎮 Game and Web Developer 🌐
+## 🌐 Web and Game Developer 🎮
 
 ### 📚  Studies  📚
-👨‍🎓 4th year university student of Computer Engineering with an academic index of 4.95/5.<br/>
+👨‍🎓 4th year university student of Computer Engineering with a GPA of 4.95/5.<br/>
 👨‍💻 Several courses taken, whose certificates are listed in the "Licenses & certifications" section.<br/>
 🗽 English proficiency level C2.
 
@@ -36,7 +36,7 @@
 🏅 Problem Solving<br/>
 🏅 English proficiency level C2
  
-### 🏘️  Projects  🏘️
+### 🏘️  Portfolio  🏘️
 Currently, I'm developing with a team a virtual hydraulics laboratory using Unity 3D. My roles in the team are to develop the UI and the internal lab mechanics related with the lab practices.
 
 Projects made with Unity:
