@@ -13,7 +13,7 @@
 ### 🧠  Experiencie  🧠
 🎮 More than one year of experience as game developer.<br/>
 🎮 3 projects made with Unity 3D.<br/>
-🎮 5 projects made with LÖVE 2D
+🎮 5 projects made with LÖVE 2D.<br/>
 🌐 Almost one year of experience as web developer.<br/>
 🌐 7 web projects where I have learned: HTML, CSS, SASS, JavaScript, Axios, Node.js, API REST.<br/>
 
