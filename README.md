@@ -2,15 +2,18 @@
 
 ### 📚  Studies  📚
 👨‍🎓 Graduated as Computer Engineer with a GPA of 4.95/5.<br/>
-👨‍💻 Several courses taken whose certificates are listed in the "Licenses & certifications" section on my LinkedIn profile.<br/>
 🗽 English proficiency level C2.
 
+### 🏘️  Portfolio  🏘️
+["Projects" section on my LinkedIn profile](https://www.linkedin.com/in/leonardo-collazo-klenina/details/projects/)
+
 ### 📜  Certificates  📜
-[Licenses & certifications section on my LinkedIn profile](https://www.linkedin.com/in/leonardo-collazo-klenina/details/certifications/)
+["Licenses & certifications" section on my LinkedIn profile](https://www.linkedin.com/in/leonardo-collazo-klenina/details/certifications/)
 
 ### 🧠  Experiencie  🧠
-🎮 More than one year of experience as game developer using Unity 3D.<br/>
+🎮 More than one year of experience as game developer.<br/>
 🎮 3 projects made with Unity 3D.<br/>
+🎮 5 projects made with LÖVE 2D
 🌐 Almost one year of experience as web developer.<br/>
 🌐 7 web projects where I have learned: HTML, CSS, SASS, JavaScript, Axios, Node.js, API REST.<br/>
 
@@ -18,32 +21,19 @@
 [Kid_Bourbon](https://learn.unity.com/u/kidbourbon)
 
 ### 💻  Proficient Skills  💻
-🏅 Game development with Unity 3D<br/>
-🏅 Web development with HTML, CSS, SASS, JavaScript, Axios, Node.js, API REST<br/>
+🏅 Software engineering: requirements capture, software design, development and testing<br/>
+🏅 Software Architecture Patterns<br/>
+🏅 Principles of video game development and design<br/>
+🏅 Fully responsive website design<br/>
+🏅 Scalable and maintainable code<br/>
+🏅 Good programming practices<br/>
 🏅 Object Oriented Programming (OOP)<br/>
 🏅 SOLID design principles<br/>
 🏅 GoF programming patterns<br/>
-🏅 Good programming practices<br/>
-🏅 Version control with Git and GitHub<br/>
-🏅 Communication<br/>
-🏅 Teamwork<br/>
+🏅 Version control<br/>
 🏅 Problem Solving<br/>
-🏅 English proficiency level C2
- 
-### 🏘️  Portfolio  🏘️
-Unity 3D projects:
-- [Knight, monsters and arena](https://github.com/KidBourbon/knight-monsters-arena) (action 3D videogame)
-- [Bea's Gift](https://github.com/KidBourbon/bea-gift) (endless runner 2D mobile Game)
-- MultiH.Virtual 3D (3D virtual hydraulics laboratory)
-
-Web projects:
-- [My Precious](https://kidbourbon.github.io/my-precious/) [[Code](https://github.com/KidBourbon/my-precious)]
-- [Kid B. Movies](https://kidbourbon.github.io/movie-website/) [[Code](https://github.com/KidBourbon/movie-website)]
-- [Yard Sale Website](https://kidbourbon.github.io/yard-sale-website/) [[Code](https://github.com/KidBourbon/yard-sale-website)]
-- [Batatabit Landing Page](https://kidbourbon.github.io/batatabit-landing-page/) [[Code](https://github.com/KidBourbon/batatabit-landing-page)]
-- [My Landing Page](https://kidbourbon.github.io/my-landing-page/) [[Code](https://github.com/KidBourbon/my-landing-page)]
-- [Gamer Profile](https://kidbourbon.github.io/gamer-profile/) [[Code](https://github.com/KidBourbon/gamer-profile)]
-- [Google Clone](https://kidbourbon.github.io/google-clone/) [[Code](https://github.com/KidBourbon/google-clone)]
+🏅 Communication<br/>
+🏅 Teamwork
 
 ### 🌐  Social Medias  🌐
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
