@@ -38,8 +38,8 @@
 🏅 Teamwork<br/>
 
 ### Desired Job Role
-👨🏼‍💻 Front-end web developer
-👨🏼‍💻 Unity 3D programmer
+👨🏼‍💻 Front-end web developer<br/>
+👨🏼‍💻 Unity 3D programmer<br/>
 
 ### Social Medias
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
