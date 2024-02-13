@@ -1,50 +1,48 @@
-# 😄  Welcome to my profile!  😄
+## 👨‍💻  Front-End Web Developer & Unity 3D Programmer  👨‍💻
 
-## 📚  Studies  📚
-👨‍🎓 I'm a 4th year university student of Computer Engineering with an academic index of 4.95/5<br/>
-👨‍💻 I have taken several courses whose certificates are shown in the following section "Certificates"
+### Studies
+👨‍🎓 Graduated as Computer Engineer with a GPA of 4.95/5<br/>
+🗽 English proficiency level C2<br/>
 
-## 📜  Certificates  📜
-- [CS50's Introduction to Computer Science](https://courses.edx.org/certificates/07a19c2ddae94799aa8db6c68cbe9e3e)
-- [Unity Essentials Pathway](https://www.credly.com/badges/b21ed9fa-3804-475a-a709-f61fe2c61620)
-- [EF Standard English Test](https://www.efset.org/cert/8DLqB2)
-- [Software Engineering Fundamentals Diploma](https://platzi.com/p/Kid_Bourbon/curso/1098-ingenieria/diploma/detalle/)
+### Portfolio
+["Projects" section on my LinkedIn profile](https://www.linkedin.com/in/leonardo-collazo-klenina/details/projects/)
 
-## 🧠  Experiencie  🧠
-🎮 More than one year of experience using Unity 3D game engine and programming with C#<br/>
-🌐 Front-end development experience with HTML, CSS, Pug and Sass
+### Certificates
+["Licenses & certifications" section on my LinkedIn profile](https://www.linkedin.com/in/leonardo-collazo-klenina/details/certifications/)
 
-👉 Check out my experience and skills with Unity: [Kid_Bourbon](https://learn.unity.com/u/5fcac86aedbc2a0020b1f7a6?tab=profile)
+### Experiencie
+🌐 Almost one year of experience as front-end web developer<br/>
+🌐 8 web projects where I have learned: HTML, CSS, Tailwind CSS, SASS, JavaScript, TypeScript, Axios, Node.js, API REST<br/>
+🎮 More than one year of experience as Unity 3D programmer<br/>
+🎮 3 projects made with Unity 3D<br/>
+🎮 5 projects made with LÖVE 2D<br/>
 
-## 💻  Proficient Skills  💻
-🏅 Game development and design with Unity 3D<br/>
-🏅 Frontend development with HTML, CSS, JS, PugJS and Sass<br/>
+👉 Check out my experience and skills with Unity 3D:
+[Kid_Bourbon](https://learn.unity.com/u/kidbourbon)
+
+### Technical Skills
+🏅 Software engineering: requirements capture, software design, development and testing<br/>
+🏅 Software architecture patterns<br/>
+🏅 Principles of game development and design<br/>
+🏅 Fully responsive website design<br/>
+🏅 Scalable and maintainable code<br/>
+🏅 Good programming practices<br/>
 🏅 Object Oriented Programming (OOP)<br/>
 🏅 SOLID design principles<br/>
 🏅 GoF programming patterns<br/>
-🏅 Good programming practices<br/>
-🏅 Version control with Git and GitHub<br/>
+🏅 Version control (Git & GitHub)<br/>
 
-🗣️  Social Skills  🗣️<br/>
-🎖️ Communication<br/>
-🎖️ Teamwork<br/>
-🎖️ Problem Solving<br/>
-🎖️ English proficiency level C2
- 
-## 🏘️  Projects  🏘️
-Currently, I'm developing with a team a virtual hydraulics laboratory using Unity 3D. I'm programming the UI and the internal mechanics of the laboratory. I also have two personal projects made with Unity:
-- [Knight, monsters and arena](https://github.com/KidBourbon/knight-monsters-arena) (action 3D videogame)
-- [Bea's Gift](https://github.com/KidBourbon/bea-gift) (endless runner 2D mobile Game)
+### Professional Skills
+🏅 Problem Solving<br/>
+🏅 Communication<br/>
+🏅 Teamwork<br/>
 
-Front-end web projects:
-- [Yard Sale Website](https://kidbourbon.github.io/yard-sale-website/) [[Code](https://github.com/KidBourbon/yard-sale-website)]
-- [My Precious](https://kidbourbon.github.io/my-precious/) [[Code](https://github.com/KidBourbon/my-precious)]
-- [Batatabit Landing Page](https://kidbourbon.github.io/batatabit-landing-page/) [[Code](https://github.com/KidBourbon/batatabit-landing-page)]
-- [Gamer Profile](https://kidbourbon.github.io/gamer-profile/) [[Code](https://github.com/KidBourbon/gamer-profile)]
-- [Google Clone](https://kidbourbon.github.io/google-clone/) [[Code](https://github.com/KidBourbon/google-clone)]
+### Desired Job Role
+👨🏼‍💻 Front-end web developer<br/>
+👨🏼‍💻 Unity 3D programmer<br/>
 
-## 🌐  Social Medias  🌐
+### Social Medias
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
-<a href="https://www.facebook.com/leonardo.collazo.klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook" width="50" height="50"/></a>
-<a href="https://twitter.com/KidBourbon6" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/twitterx.png" alt="twitterx"/></a>
 <a href="https://www.youtube.com/channel/UCUVv_L27fI0xbvdScYOGm2A" target="_blank"> <img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" alt="youtube" width="50" height="50"/></a>
+<a href="https://twitter.com/KidBourbon6" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/twitterx.png" alt="twitterx"/></a>
+<a href="https://www.facebook.com/leonardo.collazo.klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook" width="50" height="50"/></a>
