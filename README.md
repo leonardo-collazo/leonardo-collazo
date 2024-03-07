@@ -20,15 +20,13 @@
 [Kid_Bourbon](https://learn.unity.com/u/kidbourbon)
 
 ### TECHNICAL SKILLS
-🏅 Software engineering: requirements capture, software design, development and testing<br/>
+🏅 Software engineering: requirements, design, development and testing<br/>
 🏅 Software architecture patterns<br/>
 🏅 Principles of game development and design<br/>
 🏅 Fully responsive website design<br/>
-🏅 Scalable and maintainable code<br/>
-🏅 Good programming practices<br/>
 🏅 Object Oriented Programming (OOP)<br/>
-🏅 SOLID design principles<br/>
-🏅 GoF programming patterns<br/>
+🏅 Good programming practices & scalable and maintainable code<br/>
+🏅 SOLID design principles & GOF programming patterns<br/>
 🏅 Version control (Git & GitHub)<br/>
 
 ### PROFESSIONAL SKILLS
@@ -39,6 +37,13 @@
 ### DESIRED JOB ROLE
 👨🏼‍💻 Front-end web developer<br/>
 👨🏼‍💻 Unity 3D programmer<br/>
+
+### U.S. OPPORTUNITIES
+✅ I have a Diversity Visa (DV) that allows me to travel and live indefinitely in the United States<br/>
+✅ I plan to travel on April 27th to start my new life.<br/>
+✅ As soon as I arrive, I will receive my Green Card and will be able to start working<br/>
+✅ I will be living in Davenport, Orlando, FL. 33837<br/>
+✅ At the moment, I am looking for a job in advance in the United States<br/>
 
 ### SOCIAL MEDIAS
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
