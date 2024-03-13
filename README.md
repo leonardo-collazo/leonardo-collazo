@@ -11,8 +11,8 @@
 ["Licenses & certifications" section on my LinkedIn profile](https://www.linkedin.com/in/leonardo-collazo-klenina/details/certifications/)
 
 ### EXPERIENCE
-🌐 9 web projects made with the following technologies:<br/>
-🌐 HTML5 | CSS3 | Tailwind CSS | SASS | JavaScript | TypeScript | Angular | Node.js | Axios | API REST<br/>
+🌐 10 web projects made with the following technologies:<br/>
+🌐 React.js | Angular | HTML5 | CSS3 | Tailwind CSS | SASS | JavaScript | TypeScript | Node.js | Axios | API REST<br/>
 🎮 3 projects made with Unity 3D<br/>
 🎮 5 projects made with LÖVE 2D<br/>
 
