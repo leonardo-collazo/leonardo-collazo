@@ -1,4 +1,4 @@
-## 👨‍💻  Front-End Web Developer & Unity 3D Programmer  👨‍💻
+## 👨‍💻  Front-End Web Developer  👨‍💻
 
 ### STUDIES
 👨‍🎓 Bachelor's degree in Computer Engineering with a GPA of 4.95 / 5.0<br/>
@@ -20,14 +20,13 @@
 [Kid_Bourbon](https://learn.unity.com/u/kidbourbon)
 
 ### TECHNICAL SKILLS
-🏅 Software engineering: requirements, design, development and testing<br/>
-🏅 Software architecture patterns<br/>
-🏅 Principles of game development and design<br/>
-🏅 Fully responsive website design<br/>
-🏅 Object Oriented Programming (OOP)<br/>
-🏅 Good programming practices & scalable and maintainable code<br/>
-🏅 SOLID design principles & GOF programming patterns<br/>
-🏅 Version control (Git & GitHub)<br/>
+🏅 High knowledge of software engineering and architectural patterns<br/>
+🏅 Experience with Object-Oriented Programming (OOP)<br/>
+🏅 Use of good programming practices<br/>
+🏅 Use of SOLID, DRY and KISS principles<br/>
+🏅 Implementation of GoF design patterns<br/>
+🏅 Skills making fully responsive web designs<br/>
+🏅 Use of version control (Git & GitHub)<br/>
 
 ### PROFESSIONAL SKILLS
 🏅 Problem Solving<br/>
@@ -35,8 +34,8 @@
 🏅 Teamwork<br/>
 
 ### DESIRED JOB ROLE
-👨🏼‍💻 Front-end web developer<br/>
-👨🏼‍💻 Unity 3D programmer<br/>
+👨🏼‍💻 Front-End Web Developer<br/>
+👨🏼‍💻 Unity 3D Programmer<br/>
 
 ### U.S. OPPORTUNITIES
 ✅ I have a Diversity Visa (DV) that allows me to travel and live indefinitely in the United States<br/>
