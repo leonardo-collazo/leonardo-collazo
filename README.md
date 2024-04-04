@@ -13,10 +13,10 @@
 🗽 English proficiency level C2<br/>
 
 ### PROJECTS
-👉 Visit the ["Projects" section on my LinkedIn profile](https://www.linkedin.com/in/leonardo-collazo-klenina/details/projects/)
+👉 Visit the ["Projects"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/projects/) section on my LinkedIn profile
 
 ### CERTIFICATIONS
-👉 Visit the ["Licenses & certifications" section on my LinkedIn profile](https://www.linkedin.com/in/leonardo-collazo-klenina/details/certifications/)
+👉 Visit the ["Licenses & certifications"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/certifications/) section on my LinkedIn profile
 
 ### EXPERIENCE
 🌐 More than 10 web projects developed in which I gained proficient experience with:<br/>
@@ -38,7 +38,7 @@
 🏅 Frequent communication with the team<br/>
 🏅 Transparent during communication<br/>
 
-👉 To check all my skills, visit the ["Skills" section on my LinkedIn profile](https://www.linkedin.com/in/leonardo-collazo-klenina/details/skills/)
+👉 To check all my skills, visit the ["Skills"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/skills/) section on my LinkedIn profile
 
 ### SOCIAL MEDIAS
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
