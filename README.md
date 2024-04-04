@@ -12,8 +12,8 @@
 🌐 Almost 1 year studying Front-End Web Development at Platzi<br/>
 🗽 English proficiency level C2<br/>
 
-### PROJECTS
-👉 Visit the ["Projects"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/projects/) section on my LinkedIn profile
+### PORTFOLIO
+👉 Visit my ["Repository"](https://github.com/KidBourbon?tab=repositories) section here on GitHub or the ["Projects"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/projects/) section on my LinkedIn profile
 
 ### CERTIFICATIONS
 👉 Visit the ["Licenses & certifications"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/certifications/) section on my LinkedIn profile
@@ -38,7 +38,7 @@
 🏅 Frequent communication with the team<br/>
 🏅 Transparent during communication<br/>
 
-👉 To check all my skills, visit the ["Skills"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/skills/) section on my LinkedIn profile
+👉 To check all my skills, Visit the ["Skills"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/skills/) section on my LinkedIn profile
 
 ### SOCIAL MEDIAS
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
