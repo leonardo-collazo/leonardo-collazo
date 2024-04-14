@@ -40,6 +40,10 @@
 
 👉 To check all my skills, Visit the ["Skills"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/skills/) section on my LinkedIn profile
 
+### DESIRED JOB ROLE
+👨‍💻 Front-End Web Developer<br/>
+👨‍💻 Unity 3D Programmer<br/>
+
 ### SOCIAL MEDIAS
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
 <a href="https://www.youtube.com/channel/UCUVv_L27fI0xbvdScYOGm2A" target="_blank"> <img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" alt="youtube" width="50" height="50"/></a>
