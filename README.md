@@ -3,7 +3,7 @@
 ### STUDIES
 👨‍🎓 Bachelor's degree in Computer Engineering (4 years) with a GPA of 4.95<br/>
 📜 More than 30 certificates related to Front-End Web Development awarded by Platzi<br/>
-👨‍💻 Successfully completed and received a passing grade in "CS50x: CS50's Introduction to Computer Science", a course of study offered by HarvardX, an online learning initiative of Harvard University
+👨‍💻 Successfully completed and received a passing grade in "CS50x: CS50's Introduction to Computer Science", a course of study offered by HarvardX, an online learning initiative of Harvard University<br/>
 🗽 English proficiency level C2 according to EF SET<br/>
 
 ### PORTFOLIO
