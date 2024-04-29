@@ -1,16 +1,10 @@
 # 👨‍💻  Computer Engineer  👨‍💻
 
-### SEEKING OPPORTUNITIES IN THE U.S.
-✅ I have a Diversity Visa (DV) that allows me to travel and live indefinitely in the United States<br/>
-✅ I plan to travel on April 27th to start my new life.<br/>
-✅ As soon as I arrive, I will receive my Green Card and will be able to start working<br/>
-✅ I will be living in Davenport, Orlando, FL. 33837<br/>
-✅ At the moment, I am looking for a job in advance in the United States<br/>
-
 ### STUDIES
-👨‍🎓 Bachelor's degree in Computer Engineering with a GPA of 4.95 / 5.0<br/>
-🌐 Almost 1 year studying Front-End Web Development at Platzi<br/>
-🗽 English proficiency level C2<br/>
+👨‍🎓 Bachelor's degree in Computer Engineering (4 years) with a GPA of 4.95<br/>
+📜 More than 30 certificates related to Front-End Web Development awarded by Platzi<br/>
+👨‍💻 Successfully completed and received a passing grade in "CS50x: CS50's Introduction to Computer Science", a course of study offered by HarvardX, an online learning initiative of Harvard University
+🗽 English proficiency level C2 according to EF SET<br/>
 
 ### PORTFOLIO
 👉 Visit my ["Repository"](https://github.com/KidBourbon?tab=repositories) section here on GitHub or the ["Projects"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/projects/) section on my LinkedIn profile
@@ -19,8 +13,8 @@
 👉 Visit the ["Licenses & certifications"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/certifications/) section on my LinkedIn profile
 
 ### EXPERIENCE
-🌐 More than 10 web projects developed in which I gained proficient experience with:<br/>
-🌐 React.js | Angular | HTML5 | CSS3 | Tailwind CSS | SASS | JavaScript | TypeScript | Node.js | Axios | API REST<br/>
+🌐 More than 10 projects developed which gave me proficient experience with:<br/>
+🌐 Angular, React.js, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript, Axios, Web APIs, API REST and others<br/>
 🎮 3 projects made with Unity 3D + C#<br/>
 🎮 5 projects made with LOVE 2D + Lua<br/>
 
@@ -41,8 +35,8 @@
 👉 To check all my skills, Visit the ["Skills"](https://www.linkedin.com/in/leonardo-collazo-klenina/details/skills/) section on my LinkedIn profile
 
 ### DESIRED JOB ROLE
-👨‍💻 Front-End Developer<br/>
-👨‍💻 Unity Programmer<br/>
+👨‍💻 Front-End Web Developer<br/>
+👨‍💻 Unity Game Programmer<br/>
 
 ### SOCIAL MEDIAS
 <a href="https://www.linkedin.com/in/leonardo-collazo-klenina" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="50" height="50"/></a>
