@@ -37,7 +37,7 @@
 ### DESIRED JOB BY ROLE
 👨‍💻 Software Engineer<br/>
 👨‍💻 Front-End Developer<br/>
-👨‍💻 Video Game Programmer<br/>
+👨‍💻 Game Programmer<br/>
 
 ### DESIRED JOB BY SKILL
 👨‍💻 Angular Developer<br/>
