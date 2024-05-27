@@ -1,7 +1,7 @@
 # 👨‍💻  Computer Engineer  👨‍💻
 
 ### STUDIES
-👨‍🎓 Graduated with a Bachelor's Degree in Computer Engineering achieving a GPA of 4.95/5.00<br/>
+👨‍🎓 Graduated with a Bachelor's Degree in Computer Science achieving a GPA of 4.95/5.00<br/>
 📜 Earned over 30 certificates in Front-End Web Development from Platzi<br/>
 👨‍💻 Successfully completed and received a passing grade in "CS50's Introduction to Computer Science", a course of study offered by HarvardX, an online learning initiative of Harvard University<br/>
 🗽 Proficiency in English at a C2 level as assessed by EF SET<br/>
