@@ -1,4 +1,4 @@
-# 👨‍💻  Computer Engineer  👨‍💻
+# 👨‍💻  Software Engineer 👨‍💻
 
 ### STUDIES
 👨‍🎓 Graduated with a Bachelor's Degree in Computer Science achieving a GPA of 4.95/5.00<br/>
