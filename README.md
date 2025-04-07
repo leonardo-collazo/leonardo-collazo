@@ -1,7 +1,5 @@
-# Game Developer
-
 ### ABOUT
-Graduated with a Bachelor of Science in Information Technology, achieving a GPA of 4.95/5.00. Excellent skills in game, front-end development and software engineering. Committed to continuous learning and professional growth. Proactive in finding optimal solutions to complex problems. Clear and frequent communication with the team, ensuring mutual transparency and collaboration. Versatile in the adaptation of different technologies and development tools.
+Associate software engineer with experience developing 3D projects using the Unity game engine and programming with C#. Experience in web development of over 10 projects using HTML, CSS, JS, React, Angular and PostgreSQL technologies. Outstanding problem-solving skills. Excellent communication and teamwork skills. Eager to bring my innovative mindset to a forward-thinking team where I can contribute to building impactful software solutions.
 
 ### PORTFOLIO
 Visit the [Repository](https://github.com/leonardo-collazo?tab=repositories) section here on my GitHub account or the [Projects](https://www.linkedin.com/in/leonardo-collazo-klenina/details/projects/) section on my LinkedIn profile or my [YouTube](https://youtube.com/@leonardo-collazo) channel
