@@ -2,7 +2,7 @@
 Associate software engineer with experience developing 3D projects using the Unity game engine and programming with C#. Experience in web development of over 10 projects using HTML, CSS, JS, React, Angular and PostgreSQL technologies. Outstanding problem-solving skills. Excellent communication and teamwork skills. Eager to bring my innovative mindset to a forward-thinking team where I can contribute to building impactful software solutions.
 
 ### PORTFOLIO
-Visit the [Repository](https://github.com/leonardo-collazo?tab=repositories) section here on my GitHub account or the [Projects](https://www.linkedin.com/in/leonardo-collazo-klenina/details/projects/) section on my LinkedIn profile or my [YouTube](https://youtube.com/@leonardo-collazo) channel
+Visit the [Repositories](https://github.com/leonardo-collazo?tab=repositories) section here on my GitHub account or the [Projects](https://www.linkedin.com/in/leonardo-collazo-klenina/details/projects/) section on my LinkedIn profile or my [YouTube](https://youtube.com/@leonardo-collazo) channel
 
 ### EXPERIENCE
 Visit the [Experience](https://www.linkedin.com/in/leonardo-collazo-klenina/details/experience/) section on my LinkedIn profile
